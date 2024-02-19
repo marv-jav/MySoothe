@@ -1,4 +1,4 @@
-# Project Title: MySoothe - Well-being App
+# MySoothe - Well-being App
 
 ## Introduction
 
